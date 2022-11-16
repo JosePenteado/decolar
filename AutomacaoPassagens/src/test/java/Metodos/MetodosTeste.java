@@ -26,7 +26,7 @@ public class MetodosTeste {
 	}
 	
 	public void fecharNavegador() {
-		driver.quit(); 
+		//driver.quit(); 
 	}
 	
 	public void tirarPrint(String nomePrint) throws IOException {
